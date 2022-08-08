@@ -79,59 +79,59 @@ special_mode_mask values:
 <ChromatixConfigurationRoot>
   <CommonChromatixInfo>
     <ChromatixName>
-      <ISPCommon>ov5670_f5670bq_common</ISPCommon>
-      <PostProc>ov5670_f5670bq_postproc</PostProc>
-      <CPPPreview>ov5670_f5670bq_cpp_preview</CPPPreview>
-      <CPPSnapshot>ov5670_f5670bq_cpp_snapshot</CPPSnapshot>
-      <CPPLiveshot>ov5670_f5670bq_cpp_liveshot</CPPLiveshot>
+      <ISPCommon>ov8858_common</ISPCommon>
+      <PostProc>ov8858_postproc</PostProc>
+      <CPPPreview>ov8858_cpp_preview</CPPPreview>
+      <CPPSnapshot>ov8858_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>ov8858_cpp_liveshot</CPPLiveshot>
     </ChromatixName>
     <ChromatixName special_mode_mask="ZOOM_UPSCALE">
-      <CPPSnapshot>ov5670_f5670bq_cpp_us_chromatix</CPPSnapshot>
+      <CPPSnapshot>ov8858_cpp_us_chromatix</CPPSnapshot>
     </ChromatixName>
     <ChromatixName special_mode_mask="ZOOM_DOWNSCALE">
-      <CPPSnapshot>ov5670_f5670bq_cpp_ds_chromatix</CPPSnapshot>
+      <CPPSnapshot>ov8858_cpp_ds_chromatix</CPPSnapshot>
     </ChromatixName>
   </CommonChromatixInfo>
   <ResolutionChromatixInfo>
     <ChromatixName sensor_resolution_index="0">
-      <ISPPreview>ov5670_f5670bq_snapshot</ISPPreview>
-      <ISPSnapshot>ov5670_f5670bq_snapshot</ISPSnapshot>
-      <ISPVideo>ov5670_f5670bq_video_full</ISPVideo>
-      <CPPVideo>ov5670_f5670bq_cpp_video_full</CPPVideo>
-      <A3Preview>ov5670_f5670bq_zsl_preview</A3Preview>
-      <A3Video>ov5670_f5670bq_zsl_video</A3Video>
+      <ISPPreview>ov8858_snapshot</ISPPreview>
+      <ISPSnapshot>ov8858_snapshot</ISPSnapshot>
+      <ISPVideo>ov8858_default_video</ISPVideo>
+      <CPPVideo>ov8858_cpp_video</CPPVideo>
+      <A3Preview>ov8858_zsl_preview</A3Preview>
+      <A3Video>ov8858_zsl_video</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="1">
-      <ISPPreview>ov5670_f5670bq_preview</ISPPreview>
-      <ISPSnapshot>ov5670_f5670bq_preview</ISPSnapshot>
-      <ISPVideo>ov5670_f5670bq_default_video</ISPVideo>
-      <CPPVideo>ov5670_f5670bq_cpp_video</CPPVideo>
-      <A3Preview>ov5670_f5670bq_a3_default_preview</A3Preview>
-      <A3Video>ov5670_f5670bq_a3_default_video</A3Video>
+      <ISPPreview>ov8858_preview</ISPPreview>
+      <ISPSnapshot>ov8858_preview</ISPSnapshot>
+      <ISPVideo>ov8858_default_video</ISPVideo>
+      <CPPVideo>ov8858_cpp_video</CPPVideo>
+      <A3Preview>ov8858_a3_default_preview</A3Preview>
+      <A3Video>ov8858_a3_default_video</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="2">
-      <ISPPreview>ov5670_f5670bq_hfr_60</ISPPreview>
-      <ISPSnapshot>ov5670_f5670bq_hfr_60</ISPSnapshot>
-      <ISPVideo>ov5670_f5670bq_hfr_60</ISPVideo>
-      <CPPVideo>ov5670_f5670bq_cpp_hfr_60</CPPVideo>
-      <A3Preview>ov5670_f5670bq_a3_hfr_60</A3Preview>
-      <A3Video>ov5670_f5670bq_a3_hfr_60</A3Video>
+      <ISPPreview>ov8858_hfr_60</ISPPreview>
+      <ISPSnapshot>ov8858_hfr_60</ISPSnapshot>
+      <ISPVideo>ov8858_hfr_60</ISPVideo>
+      <CPPVideo>ov8858_cpp_hfr_60</CPPVideo>
+      <A3Preview>ov8858_a3_hfr_60</A3Preview>
+      <A3Video>ov8858_a3_hfr_60</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="3">
-      <ISPPreview>ov5670_f5670bq_hfr_90</ISPPreview>
-      <ISPSnapshot>ov5670_f5670bq_hfr_90</ISPSnapshot>
-      <ISPVideo>ov5670_f5670bq_hfr_90</ISPVideo>
-      <CPPVideo>ov5670_f5670bq_cpp_hfr_90</CPPVideo>
-      <A3Preview>ov5670_f5670bq_a3_hfr_90</A3Preview>
-      <A3Video>ov5670_f5670bq_a3_hfr_90</A3Video>
+      <ISPPreview>ov8858_hfr_90</ISPPreview>
+      <ISPSnapshot>ov8858_hfr_90</ISPSnapshot>
+      <ISPVideo>ov8858_hfr_90</ISPVideo>
+      <CPPVideo>ov8858_cpp_hfr_90</CPPVideo>
+      <A3Preview>ov8858_a3_hfr_90</A3Preview>
+      <A3Video>ov8858_a3_hfr_90</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="4">
-      <ISPPreview>ov5670_f5670bq_hfr_120</ISPPreview>
-      <ISPSnapshot>ov5670_f5670bq_hfr_120</ISPSnapshot>
-      <ISPVideo>ov5670_f5670bq_hfr_120</ISPVideo>
-      <CPPVideo>ov5670_f5670bq_cpp_hfr_120</CPPVideo>
-      <A3Preview>ov5670_f5670bq_a3_hfr_120</A3Preview>
-      <A3Video>ov5670_f5670bq_a3_hfr_120</A3Video>
+      <ISPPreview>ov8858_hfr_120</ISPPreview>
+      <ISPSnapshot>ov8858_hfr_120</ISPSnapshot>
+      <ISPVideo>ov8858_hfr_120</ISPVideo>
+      <CPPVideo>ov8858_cpp_hfr_120</CPPVideo>
+      <A3Preview>ov8858_a3_hfr_120</A3Preview>
+      <A3Video>ov8858_a3_hfr_120</A3Video>
     </ChromatixName>
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>
